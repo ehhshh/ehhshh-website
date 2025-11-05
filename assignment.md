@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 In an increasingly globalized and interconnected world, Intercultural Studies is a framework for understanding how cultures interact, influence, and transform one another. Culture itself can be complex to navigate and when studying the interconnectedness of several cultures it becomes even more complex and dynamic. Here, culture is not understood in terms of popular culture solely relying on artistic and textual products like films, music, and books. As an interdisciplinary field mainly situated between the humanities and social sciences, it engages with questions of identity, community, communication, and meanings across cultural boundaries. The focus is on the _between_ where the space of exchange and negotiation happens and cultural _entanglements_ take place. In a world where globalization also introduced the spread of digital technologies, it has also influenced and transformed research practices and academic engagement within Intercultural Studies at large. Examining current tools, emerging technologies, and their implications for critical reflections, digitalization is reshaping not only how to conduct research but also how we think about intercultural relations in a predominantly digitized world.
 
 To study Intercultural Studies is to delve into a field that offers expertise from several disciplines. It is an area of study that seeks to understand and explore the intricate dynamics between cultures that occur when cultures meet, interact, and influence one another. Rather than limiting the study comparatively, the intercultural perspective focuses on the between where exchange, negotiation, and mutual transformation take place. Being interdisciplinary, the field draws on knowledge and approaches from history, media and literature, and language studies, and the social sciences where organizational aspects are analysed with intercultural approaches. In Intercultural Studies the world is seen as diverse and interconnected in which we all partake in. The multicultural is not exceptional or distant but omnipresent shaping our everyday lives, institutions, and identities. To study cultures, then, also means to study and question our own positionality, assumptions, and cultural background while attempting to understand others.  
@@ -15,10 +15,3 @@ Intercultural Studies continues to develop alongside digital transformation and 
 
 [^1]: Eaton
 [^2]: [Aarhus University Library](https://library.au.dk/en/students/reference-management)
-=======
-# Intercultural Studies in the Humanities
-bla bla bla...
-
-// Create a basic link to a website
-For more info visit [AU link] (https://masters.au.dk/interculturalstudies)
->>>>>>> b828d5a2e4b7c734346854bcf8ee152016fdf218
