@@ -5,6 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
     <title>Emma's Website</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked-footnote/dist/index.umd.js"></script>
+  <style>
+  #content { transition: opacity 0.3s ease; opacity: 0; }
+  #content.loaded { opacity: 1; }
+</style>
 </head>
 <body>
   <header>
@@ -14,6 +20,7 @@
 <main>
     <section>
         <h2>Intercultural Studies and their technological uses</h2>
+        <div id="content">Loading...</div>
 </script>
   <script src="script.js"></script>
     <section>
@@ -22,6 +29,19 @@
             <li><a href="https://library.au.dk/en/students/reference-management" target="_blank">Aarhus University Library</a></li>
         </ol>
     </section>
+    <script>fetch('assignment.md')
+    .then(res => res.text())
+    .then(text => {
+      const el = document.getElementById('content');
+      el.innerHTML = marked.parse(text);
+      el.classList.add('loaded');
+    })
+    .catch(err => document.getElementById('content').innerText = 'Failed to load markdown.');
+    </script>
+    <script>
+    marked.use(markedFootnote());
+  </script>
+     <script src="script.js"></script>
 </script>
 </main>
 </body>
